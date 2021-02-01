@@ -2,7 +2,7 @@
 
 **Name of the student:** Moranne <br>
 **Date:** 01/02/2021   <br>
-**Course:** ENSGSI 2021 <br>
+**Course:** CI 15 ENSGSI 2021 <br>
 
 ## Purpose
 > The purpose of thi repository contains the files and tutorial on the reproducible research.
